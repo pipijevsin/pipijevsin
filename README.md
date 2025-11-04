@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I’m Luka Mamić  
 
-<!--
-**pipijevsin/pipijevsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering student** @ Algebra University College  
+💼 Freelance **Web Developer & Designer**  
+🌍 Based in **Zagreb, Croatia**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 What I Do  
+- Build modern, responsive websites in **Webflow** and **WordPress**  
+- Code apps and systems in **Swift**, **C++**, and **C#**  
+- Integrate automations using **HubSpot**, **Make (Integromat)**, and **Stripe**  
+- Design brand identities and optimize user experience (UX/UI)  
+- Deliver digital solutions that are fast, scalable, and visually engaging  
+
+---
+
+### 🧠 Tech & Tools  
+**Languages:** Swift | C++ | C# | HTML | CSS | JavaScript  
+**Web & Design:** Webflow | WordPress | Figma | Adobe Creative Suite  
+**Automation & Integrations:** HubSpot | Make | Stripe | AI Tools  
+
+---
+
+### 🚀 Featured Projects  
+- [Rustico Restaurant Website](https://www.rustico.at/) – Full Webflow design & development for a Mediterranean restaurant in Austria  
+- [Tvoja Agencija](#) – Business CRM + Webflow website boosting conversions by 30%  
+- [KupiMaske](#) – E-commerce project generating 500+ sales in 6 months  
+
+---
+
+### 📫 Let’s Connect  
+🌐 [Website](https://www.mamic.org)  
+💼 [LinkedIn](https://www.linkedin.com/in/lukamamic)  
+📧 [Email](mailto:luka@mamic.org)  
+
+---
+
+> “I love building clean digital experiences that connect design, technology, and real business impact.”  

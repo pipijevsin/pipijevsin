@@ -23,9 +23,9 @@
 ---
 
 ### 🚀 Featured Projects  
+- [Dani Remeta](https://daniremeta.com) – Festival founder + Webflow website boosting conversions by 30%  
 - [Rustico Restaurant Website](https://www.rustico.at/) – Full Webflow design & development for a Mediterranean restaurant in Austria  
-- [Tvoja Agencija](#) – Business CRM + Webflow website boosting conversions by 30%  
-- [KupiMaske](#) – E-commerce project generating 500+ sales in 6 months  
+- [KupiMaske] – E-commerce project generating 500+ sales in 6 months  
 
 ---
 

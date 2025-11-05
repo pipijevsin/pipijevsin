@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Luka Mamić  
 
 🎓 **Software Engineering student** @ Algebra University College  
-💼 Freelance **Software Engineer & Web Develope**  
+💼 Freelance **Software Engineer & Web Developer**  
 🌍 Based in **Zagreb, Croatia**  
 
 ---
